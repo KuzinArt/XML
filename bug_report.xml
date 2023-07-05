@@ -1,1 +1,12 @@
+<bug>
+    <ID> </ID>
+    <Severity> Blocker. Блокирующая ошибка. Critical. Критическая ошибка."Major. Существенный баг. Minor. Незначительный баг. Trivial. Тривиальный баг </Severity>
+    <Title> </Title>
+    <Environment> </Environment>
+    <Steps> </Steps>
+    <ER></ER>
+    <AR> </AR>
+    <Author> </Author>
+    <Bug_comments> </Bug_comments>
+</bug>
 
